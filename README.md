@@ -4,7 +4,7 @@ Hangalapú vezérlés megvalósítása A35
 
 ## Leírás
 
-Ez a projekt egy hangalapú vezérlőrendszert valósít meg, amely a felhasználó által mondott parancsokat szöveggé alakítja, majd az OpenAI API segítségével feldolgozza azokat. A rendszer képes meghatározni egy autó sebességét a felhasználó által adott parancs alapján.
+Ez a projekt egy hangalapú vezérlőrendszert valósít meg, amely a felhasználó által mondott parancsokat szöveggé alakítja, majd az OpenAI API segítségével feldolgozza azokat. A rendszer képes meghatározni egy autó sebességét a felhasználó által adott parancs alapján. Az utasítás nyelve legyen az angol!
 
 ## Fájlok
 
